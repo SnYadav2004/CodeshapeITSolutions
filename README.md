@@ -1,6 +1,9 @@
 Sales Performance Dashboard
+
 Internship Project at CodeShape IT Solution
+
 Platform: Power BI
+
 Author: Sachin Yadav
 
 1. 🔍 Project Overview
